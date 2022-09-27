@@ -1,7 +1,6 @@
 
 
 <h2 align="left">
-  <img src="https://github.com/Samir-Sattarov/Samir-Sattarov/blob/main/2A5.gif" alt="Coder GIF" width="500" height="300">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Samir, Mobile Developer:computer: <img src="https://github.com/Samir-Sattarov/Samir-Sattarov/blob/main/xt.gif" alt="Coder GIF" width="30">
