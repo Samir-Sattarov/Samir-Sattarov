@@ -1,21 +1,20 @@
-# Привет, я [Ваше имя]
+# Привет, я Самир
 
-![Profile Views](https://komarev.com/ghpvc/?username=ваш_логин&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/ваш_логин?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ваш_логин?style=social)
-
-Я занимаюсь разработкой программного обеспечения и интересуюсь [ваш интерес] и [ваше хобби].
+Я занимаюсь разработкой программного обеспечения под все платформы IOS, Android, Windows, Mac, Linux
 
 ## Технологии и инструменты
 
-- Языки программирования: [Языки программирования, которыми владею]
-- Фреймворки: [Фреймворки, которые использую]
-- Инструменты разработки: [IDE, редакторы и т.д.]
+- Языки программирования: Dart C++(Arduino) 
+- Фреймворки: Flutter
+- Инструменты разработки: Visual Studio Code, Android Studio, Git, Git Flow Firebase, Pomodoro
 
 ## Связаться со мной
 
-- Электронная почта: [ваша электронная почта]
-- LinkedIn: [ссылка на профиль LinkedIn]
-- Twitter: [ссылка на профиль Twitter]
-- Другие ссылки: [дополнительные ссылки]
+- Электронная почта: samirsattarov2004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samir-sattarov-164aa522b/
+- Threads: samir_sattarov47@threads.net
+- Instagram: samir_sattarov47
 
+## Проекты
+
+- Можно посмотреть на сайте: [WEBSITE](https://portfolio-website-4cbf3.web.app/home)
